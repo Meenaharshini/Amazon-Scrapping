@@ -1,0 +1,20 @@
+
+product title:
+css: 'h2 a.a-link-normal.a-text-normal'
+xpath: null
+type: Text
+procuct url:
+css: 'h2 a.a-link-normal.a-text-normal'
+xpath: null
+type: Link
+product price:
+css: 'span.a-price:nth-of-type(1) span.a-offscreen'
+xpath: null
+type: Text
+product details:
+css: '#featurebullets_feature_div'
+type: Text
+images:
+css: '.imgTagWrapper img'
+type: Attribute
+attribute: data-a-dynamic-image
